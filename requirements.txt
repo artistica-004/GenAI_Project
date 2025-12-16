@@ -1,0 +1,9 @@
+streamlit
+pypdf
+langchain==0.1.16
+langchain-community==0.0.34
+langchain-core==0.1.45
+langchain-text-splitters==0.0.1
+chromadb
+sentence-transformers
+ollama
