@@ -16,6 +16,9 @@ This project is a **Generative AI application** built to demonstrate the complet
 - **Model Provider:** Ollama (Gemma2:2b)
 - **Embeddings:** HuggingFace (`all-MiniLM-L6-v2`)
 
+##Live Demo
+Try it here : https://huggingface.co/spaces/artistica-004/groq-genai-app
+
 ## ⚙️ How to Run Locally
 
 1. **Clone the Repo:**
